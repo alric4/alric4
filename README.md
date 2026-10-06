@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, ben alric4 👋
 
-<!--
-**alric4/alric4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği öğrencisiyim. C# ve SQL Server ile projeler geliştirerek kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Kullandığım Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- SQL Server
+- ADO.NET
+
+## 📌 Projelerim
+
+- [GelirGiderTakip](https://github.com/alric4/GelirGiderTakip): C# ve SQL Server ile yazılmış konsol tabanlı gelir-gider takip uygulaması
+
+## 🎯 Şu An Üzerinde Çalıştığım Şeyler
+
+- C# ve veritabanı uygulamaları
+- Projelerimi adım adım büyütmek
+
+## 📫 İletişim
+
+- GitHub: [@alric4](https://github.com/alric4)
