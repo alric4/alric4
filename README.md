@@ -1,5 +1,6 @@
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=alric4&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-38BDF8?style=flat" />
 ```yaml
 isim:   Ali
 rol:    Bilgisayar Mühendisliği Öğrencisi (2. sınıf)
