@@ -29,9 +29,12 @@ odak:   C# / .NET, veritabanı uygulamaları
 
 ### 📂 Projelerim
 
-- **[GelirGiderTakip](https://github.com/alric4/GelirGiderTakip)**: C# konsol uygulaması, SQL Server ve SqlConnection ile gelir-gider kayıtları
-- **Randevu Sistemi**: Hasta ve randevu yönetimi yapan C# konsol projesi
-- **EF Core Code First çalışması**: Kategori, ürün, sipariş ve müşteri varlıklarıyla katmanlı yapı
+## Projeler
+
+- [GelirGiderTakip](https://github.com/alric4/GelirGiderTakip): C# ve SQL Server ile gelir-gider takip konsol uygulaması.
+- [KutuphaneYonetimSistemi](https://github.com/alric4/KutuphaneYonetimSistemiDb): C# ve SQL Server ile kütüphane yönetim sistemi (geliştiriliyor).
+
+
 
 <br>
 
