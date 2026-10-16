@@ -1,4 +1,4 @@
-<img width="499" height="280" alt="red eye eyes GIF" src="https://github.com/user-attachments/assets/9cabd2a3-b5e7-46fe-ad43-0b85679fd0d5" />
+<img width="100%" alt="Kırmızı gözler animasyonu" src="https://github.com/user-attachments/assets/9cabd2a3-b5e7-46fe-ad43-0b85679fd0d5" />
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=alric4&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
